@@ -1,3 +1,5 @@
+package Arrays;
+
 public static void solve(int[] arr) {
     // Step 1: Calculate total sum
     int totalSum = 0;

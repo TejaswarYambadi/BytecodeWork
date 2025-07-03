@@ -1,6 +1,9 @@
+package Arrays_2D;
+
+
 import java.util.Scanner;
 public class AttendanceTable {
-//hello
+//HE
 	public static void main(String[] args) {
 		// TODO Auto-generated method stu
 		Scanner sc = new Scanner(System.in);
