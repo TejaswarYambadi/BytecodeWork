@@ -1,0 +1,8 @@
+2025-07-03 12:51:09,185 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-07-03 13:03:23,144 [Worker-20: Updating workspace] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\yamba\OneDrive\Desktop\AttendanceMaster\.git]
+2025-07-03 13:03:23,157 [Worker-20: Updating workspace] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\yamba\OneDrive\Desktop\attendease\.git]
+2025-07-03 13:03:23,261 [Worker-20: Computing Git status for repository Desktop] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\yamba\OneDrive\Desktop\ShoppingVerse\.git]
+2025-07-03 13:03:23,277 [Worker-20: Computing Git status for repository Desktop] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\yamba\OneDrive\Desktop\lalitha\.git]
+2025-07-03 13:05:43,974 [Worker-30: C:\Users\yamba\OneDrive\Desktop\ByteCodeWork] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\yamba\OneDrive\Desktop\.git]
+2025-07-03 14:51:20,414 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-07-03 14:54:56,248 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
