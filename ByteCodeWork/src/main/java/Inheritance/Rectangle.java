@@ -5,11 +5,12 @@ class Shape{
     void setdim(double l,double b){
         length=l;
         breadth=b;
+        
     }
 }
 class Rect extends Shape{
     void area(){
-            double a=length*breadth;
+    	double a=length*breadth;
             System.out.print("Area = "+a);
         }
 }
