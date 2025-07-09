@@ -7,13 +7,15 @@ class Shape{
         breadth=b;
     }
 }
-class Rectangle extends Shape{
+class Rect extends Shape{
     void area(){
             double a=length*breadth;
             System.out.print("Area = "+a);
         }
+}
+class Rectangle{
     public static void main(String[]args){
-        Rectangle r = new Rectangle();
+        Rect r = new Rect();
         r.setdim(5,30);
         r.area();
     }
