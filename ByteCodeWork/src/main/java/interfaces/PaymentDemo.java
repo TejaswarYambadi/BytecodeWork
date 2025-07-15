@@ -18,6 +18,7 @@ public class PaymentDemo {
 	public static void main(String[] args){
 		PayPal p1 = new PayPal();
 		Stripe s1 = new Stripe();
+		p1.processPayment(100);
 		p1.processPayment(20);
 		s1.processPayment(50);
 	}
