@@ -8,7 +8,7 @@ class Eist
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter a First Angle = ");
 		int a = sc.nextInt();
-		System.out.print("Enter a Second Angle = ");;
+		System.out.print("Enter a Second Angle = ");;;;;
 		int b = sc.nextInt();
 		System.out.print("Enter a Third Angle = ");
 		int c = sc.nextInt();
