@@ -29,7 +29,6 @@ public class Main {
 		e1.show();
 		e1.display();
 		Employee.display();
-		
 	}
 
 }
