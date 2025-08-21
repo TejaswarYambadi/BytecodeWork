@@ -16,7 +16,7 @@ public class Grading {
 				}
 				if(min>mark) {
 					min=mark;
-				}
+				}////
 				if (mark>=90 && mark<=100) {
 					System.out.println("Student "+(i+1)+" got A Grade");
 					gradeA+=1;
