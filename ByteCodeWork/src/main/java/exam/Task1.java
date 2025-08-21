@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Task1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		        Scanner sc = new Scanner(System.in);
 
 		        System.out.print("Enter no of rows in theatre = ");
@@ -19,7 +18,7 @@ public class Task1 {
 
 		        int choice;
 		        do {
-		            System.out.println("\n===== Theatre Booking Menu =====");
+		            System.out.println("===== Theatre Booking Menu =====");
 		            System.out.println("1. Display Seat Status");
 		            System.out.println("2. Book a Seat");
 		            System.out.println("3. Check Seat Status");
@@ -98,6 +97,7 @@ public class Task1 {
 		                    System.out.println("Invalid choice. Please try again!");
 		            }
 		        } while (choice != 5);
+		        sc.close();
 		    }
 		
 		
