@@ -1,6 +1,8 @@
-package SMS_Final;
+package FileToDatabase;
 
 import java.sql.*;
+
+import SMS_Final.User;
 
 public class Admin extends User {
     public Admin(String id, String name, String email, String password) {
