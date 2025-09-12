@@ -1,5 +1,5 @@
 // Write a program to find maximum between three numbers?
-
+package controlstatements;
 import java.util.Scanner;
 class Threemax
 {

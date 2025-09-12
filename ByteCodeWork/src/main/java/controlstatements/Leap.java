@@ -1,5 +1,5 @@
 //Write a program to check whether a year is leap year or not?
-
+package controlstatements;
 import java.util.Scanner;
 class Leap
 {

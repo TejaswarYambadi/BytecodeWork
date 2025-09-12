@@ -1,5 +1,5 @@
 // Write a program to input any alphabet and check whether it is vowel or consonant?
-
+package controlstatements;
 import java.util.Scanner;
 class Vowcon
 {

@@ -1,5 +1,5 @@
 //Write a program to input week number and print week day?
-
+package controlstatements;
 import java.util.Scanner;
 class Weekno
 {

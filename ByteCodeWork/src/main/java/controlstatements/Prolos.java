@@ -1,5 +1,5 @@
 //Write a program to calculate profit or loss?
-
+package controlstatements;
 import java.util.Scanner;
 class Prolos
 {

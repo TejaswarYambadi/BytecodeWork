@@ -31,7 +31,7 @@ public class RemoveDuplicates {
 			}
 		}
 		for (int x : b) {
-            System.out.print(x + " ")//
+            System.out.print(x + " ");
         }
 	}
 

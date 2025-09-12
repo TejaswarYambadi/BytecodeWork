@@ -1,4 +1,4 @@
-//Write a program to check whether a character is alphabet or not?
+package controlstatements;
 
 import java.util.Scanner;
 class Alpha

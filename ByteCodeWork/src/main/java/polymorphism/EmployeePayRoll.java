@@ -10,7 +10,7 @@ class Employee{
 		System.out.println("Employee Name: " + name + ", ID: " + id);
 	}
 }
-class FullTime extends Employe{
+class FullTime extends Employee{
 	 int salary;
 	 FullTime(String name,int id,int salary){
 		 super(name,id);
@@ -20,7 +20,7 @@ class FullTime extends Employe{
 		 System.out.println("Employee Name: " + name + ", ID: " + id + ", Salary: " + salary);
 	 }
 }
-class PartTime extends Employe{
+class PartTime extends Employee{
 	int hours;
 	PartTime(String name,int id,int hours){
 		super(name,id);
@@ -30,7 +30,7 @@ class PartTime extends Employe{
 		System.out.println("Employee Name: " + name + ", ID: " + id + ", Salary: " + 100*hours);
 	}
 }
-class ContractEmployee extends Employe{
+class ContractEmployee extends Employee{
 	int contract;
 	ContractEmployee(String name,int id,int contract){
 		super(name,id);
@@ -44,9 +44,9 @@ public class EmployeePayRoll {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Employe e1 = new FullTime("E001", 101, 50000);
-		Employe e2 = new PartTime("E002", 102, 20);
-		Employe e3 = new ContractEmployee("E003", 103, 30000);
+		Employee e1 = new FullTime("E001", 101, 50000);
+		Employee e2 = new PartTime("E002", 102, 20);
+		Employee e3 = new ContractEmployee("E003", 103, 30000);
 		e1.display();
 		e2.display();
 		e3.display();

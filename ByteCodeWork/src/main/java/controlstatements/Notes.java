@@ -1,5 +1,5 @@
 //Write a program to count total number of notes in given amount?
-
+package controlstatements;
 import java.util.Scanner;
 class Notes
 {
@@ -9,11 +9,11 @@ class Notes
 		System.out.print("Enter total amount = ");
 		int a = sc.nextInt();
 		if (a<0)System.out.println("Invalid");
-		else if (a==0)System.out.println("No amount")
+		else if (a==0)System.out.println("No amount");
 		else 
 		{
 			a%=500;
-			a/5
+			
 		}
 
 	}

@@ -1,9 +1,8 @@
 package methods;
 
 class Test9 { 
-    int x = 10; 
-public
-    static void main(String[] args) 
+    static int x = 10; 
+public static void main(String[] args) 
     { 
         System.out.println(Test9.x); 
     } 

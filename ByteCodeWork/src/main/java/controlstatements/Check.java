@@ -1,5 +1,5 @@
 //Write a program to check whether a number is negative, positive or zero?
-
+package controlstatements;
 import java.util.Scanner;
 class Check
 {

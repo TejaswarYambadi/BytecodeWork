@@ -1,5 +1,9 @@
 package arrays;
-
+public class EquilibriumIndex {
+	public static void main(String[] args) {
+		int[] arr = { -7, 1, 5, 2, -4, 3, 0 };
+		solve(arr);
+	}
 public static void solve(int[] arr) {
     // Step 1: Calculate total sum
     int totalSum = 0;
@@ -21,4 +25,5 @@ public static void solve(int[] arr) {
     }
 
     System.out.println("No equilibrium index found.");
+}
 }

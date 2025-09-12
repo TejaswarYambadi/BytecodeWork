@@ -1,6 +1,6 @@
 package arrays_2D;
 import java.util.Scanner;
-public class MarkTracker {
+public class AvgCityTemp {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		//
