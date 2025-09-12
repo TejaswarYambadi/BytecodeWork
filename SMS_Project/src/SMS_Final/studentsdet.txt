@@ -1,2 +1,0 @@
-ID :1 NAME :A MAIL ID:a@gmail.com PSWD :123
-ID :2 NAME :B MAIL ID:b@gmail.com PSWD :123
